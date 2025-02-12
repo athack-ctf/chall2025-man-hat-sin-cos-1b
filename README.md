@@ -1,6 +1,6 @@
-# Chall - Your Challenge Title
+# Chall - 🚹 🎩 sinθ/cosθ part 1B
 
-> A brief description of the challenge
+> A brief description of the challenge (For the @hacks team only): goal is to use Google Dorking to find the information--or use part1A for a simple search. Part1A makes part 2 easier, but participants can start with part2 if they want (it will just be a bit harder)
 
 ## Type
 
@@ -9,30 +9,22 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Oleander (Jeslyn)
 
-## Description
 
-A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
-goals and the skills it aims to test in participants.
+## Description (for the challenge)
+Shifting away from the photograph on Dr.Dexter's desk, you weren't surprised to find out that he is such a DORK by the D&D dice laying near his laptop.
+Yet, one thing peaks your interest...
+It turns out that Dr. Dexter was acquainted with the family of a forgotten genius who revolutionized most of the technologies used in nuclear reactors today. This person had their autobiography written in an Alumnae publication issued by the University where they earned their BA. 
 
-**IMPORTANT:** This description will **NOT** be shared with participants.
+The flag is the concatenation of the TWO first words from the name of the University’s journal publication (lowercase). Example: if the name is Hello World’s Daily, your Flag would be ATHACKCTF{helloworlds}
+
+Hint: the source found at Part1A will help you solve this challenge
 
 ## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
-- `stegano`
-- `env`
-- `crypto`
 - `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
-- `misc`
+  
 
 ---
 
@@ -41,18 +33,6 @@ goals and the skills it aims to test in participants.
 ## 1. HACKME.md
 
 - **[HACKME.md](HACKME.md)**: A teaser or description of the challenge to be shared with participants (in CTFd).
-
-## 2. Source Code
-
-- **[source/README.md](source/README.md)**: Sufficient instructions for building your offline artifacts from source
-  code. If your project includes multiple subprojects, please consult us (Anis and Hugo).
-- **[source/*](source/)**: Your source code.
-
-## 3. Offline Artifacts
-
-- **[offline-artifacts/*](offline-artifacts/)**: All files (properly named) intended for local download by
-  participants (e.g., a binary executable for reverse engineering, a custom-encoded image, etc.). For large files (
-  exceeding 100 MB), please consult us (Anis and Hugo).
 
 ## 4. Solution
 
