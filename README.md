@@ -15,7 +15,7 @@
 ## Description (for the challenge)
 Shifting away from the photograph on Dr.Dexter's desk, you weren't surprised to find out that he is such a DORK by the D&D dice laying near his laptop.
 Yet, one thing peaks your interest...
-It turns out that Dr. Dexter was acquainted with the family of a forgotten genius who revolutionized most of the technologies used in nuclear reactors today. This person had their autobiography written in an Alumnae publication issued by the University where they earned their BA. 
+It turns out that Dr. Dexter was acquainted with the family of a forgotten genius who revolutionized most of the technologies used in nuclear reactors today. This Mathematician had their autobiography written in an Alumnae publication issued by the University where they earned their BA. 
 
 The flag is the concatenation of the TWO first words from the name of the University’s journal publication (lowercase). Example: if the name is Hello World’s Daily, your Flag would be ATHACKCTF{helloworlds}
 
