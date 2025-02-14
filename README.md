@@ -1,6 +1,6 @@
 # Chall - 🚹 🎩 sinθ/cosθ part 1 B
 
-> A brief description of the challenge (For the @hacks team only): goal is to use Google Dorking to find the information--or use part1A for a simple search. Part1A makes part 2 easier, but participants can start with part2 if they want (it will just be a bit harder)
+> A brief description of the challenge (For the @hacks team only): goal is to use Google Dorking to find the information--or use part1A for a simple search. Part1A makes part 2 easier, but participants can start with part2 if they want (it will just be a bit harder). Goal is to use google DORKS
 
 ## Type
 
