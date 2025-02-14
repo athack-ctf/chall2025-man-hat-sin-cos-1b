@@ -1,10 +1,7 @@
-The description of your challenge as seen by participants in CTFd. Try to make it feel within the theme
-of the event...
+Shifting away from the photograph on Dr.Dexter's desk, you weren't surprised to find out that he is such a DORK by the D&D dice laying near his laptop. Yet, one thing peaks your interest... It turns out that Dr. Dexter was acquainted with the family of a forgotten genius who revolutionized most of the technologies used in nuclear reactors today. This Mathematician had their autobiography written in an Alumnae publication issued by the University where they earned their BA.
 
----
-If your challenge is a multi-flag one (i.e., it consists of a sequence of sub-challenges each rewarded with
-its own flag), requiring a different description for each sub-challenge, then have your descriptions split as 
-done with this paragraph, and the next one.
+The flag is the concatenation of the TWO first words from the name of the University’s journal publication (lowercase). Example: if the name is Hello World’s Daily, your Flag would be ATHACKCTF{helloworlds}
 
+Hint: the source found at Part1A will help you solve this challenge
 ---
 Obviously, for each sub-challenge, you should provide its flag value in [solution/FLAGS.md](solution/FLAGS.md).
