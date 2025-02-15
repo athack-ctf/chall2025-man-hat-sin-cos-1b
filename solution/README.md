@@ -1,10 +1,3 @@
 # How to Solve the Challenge?
 
-Provide reproducible steps to solve the challenge. This can include:
-
-- Runnable code (e.g., `PoC.py`)
-- A Bash script or a sequence of commented commands
-- Well-explained instructions
-- ...
-
-Ensure that all dependencies required to build or run the solution are provided (e.g., `requirements.txt`) or thoroughly documented.
+https://docs.google.com/document/d/1MzzwwOJ1QAPWwiGx0ud2ZtAfskY83IXE1FMFvlbVMGI/edit
