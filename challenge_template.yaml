@@ -1,0 +1,40 @@
+# Name should be "Challenge name" if only one flag, or
+# "Challenge name - 1", "Challenge name - 2", etc. if multiple ones.
+# Be careful of the spaces before and after the '-'
+name: "Man-Hat-Sin/Cos - 1b"
+author: ""
+category: <OSINT>
+description: |
+    Shifting away from the photograph on Dr.Dexter's desk, you weren't surprised to find out that he is such a DORK by the D&D dice laying near his laptop. Yet, one thing peaks your interest... It turns out that Dr. Dexter was acquainted with the family of a forgotten genius who revolutionized most of the technologies used in nuclear reactors today. This mathematician had their autobiography written in an alumnae publication issued by the University where they earned their BA.
+
+    Can you find this publication?
+
+    NOTE: The flag format is `ATHACKCTF{_}`, where `_` is the concatenation of the TWO first words of the University's publication name, in lowercase.
+    Example: if the publication name is `Hello World: A History of Code`, the flag would be `ATHACKCTF{helloworld}`.
+    
+value: 0
+
+# Let's put the challenges as standard for now and we can script to change
+type: standard
+
+
+# Flags specify answers that your challenge use. You should generally provide at least one.
+flags:
+  - type: "static"
+    content: "ATHACKCTF{stillrunning}"
+    data: "case_insensitive"
+
+
+# Available: beginner, interac
+tags:
+
+# Provide paths to files from the same directory that this file is in
+files:
+
+# If multiple flag challenge, put here the names of all previous challenges
+
+
+# Put hidden by default
+state: hidden
+
+version: "0.1"
