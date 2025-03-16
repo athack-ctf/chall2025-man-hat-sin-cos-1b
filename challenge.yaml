@@ -19,6 +19,7 @@ flags:
     data: "case_insensitive"
 
 tags:
+  - beginner
 
 files:
 
